@@ -14,7 +14,7 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "explicit"
     },
-    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorTheme": "Default Light Modern",
     "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.sideBar.location": "left",
