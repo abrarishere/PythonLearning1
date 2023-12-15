@@ -1,8 +1,10 @@
 while True:
-    value      = int(input("Enter a number to print table(q to quit): "))
-    rangetable = int(input("Enter a range to generate table: "))
-    if value == "q":
-        break
-    else:
-        for i in range(1, rangetable + 1):
-            print(f"{value} x {i} = {value * i}")
+    term = int(input("Enter term to generate its table: "))
+    quantity = int(input("Enter range: "))
+
+    for value in range(quantity + 1):
+        value_g = term * value
+        print("---------------")
+        print(f"{term} x {value} = {value_g}")
+        print("---------------")
+
