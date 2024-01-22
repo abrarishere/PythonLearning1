@@ -19,7 +19,7 @@
     "workbench.startupEditor": "newUntitledFile",
     "workbench.sideBar.location": "left",
     "workbench.statusBar.visible": true,
-    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontFamily": "monospace",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "line",
