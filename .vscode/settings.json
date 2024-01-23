@@ -14,10 +14,10 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "explicit"
     },
-    "workbench.colorTheme": "Mariana (Sublime)",
+    "workbench.colorTheme": "GitHub Dark Dimmed",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.sideBar.location": "left",
+    "workbench.sideBar.location": "right",
     "workbench.statusBar.visible": false,
     "terminal.integrated.fontFamily": "monospace",
     "terminal.integrated.fontSize": 14,
