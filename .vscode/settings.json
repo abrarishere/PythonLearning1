@@ -14,7 +14,7 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "explicit"
     },
-    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.colorTheme": "Mariana (Sublime)",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.sideBar.location": "right",
