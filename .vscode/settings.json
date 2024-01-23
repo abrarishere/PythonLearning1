@@ -17,7 +17,7 @@
     "workbench.colorTheme": "Mariana (Sublime)",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.sideBar.location": "right",
+    "workbench.sideBar.location": "left",
     "workbench.statusBar.visible": false,
     "terminal.integrated.fontFamily": "monospace",
     "terminal.integrated.fontSize": 14,
