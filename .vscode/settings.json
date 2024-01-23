@@ -14,11 +14,11 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "explicit"
     },
-    "workbench.colorTheme": "Atom One Light",
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Mariana (Sublime)",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.sideBar.location": "left",
-    "workbench.statusBar.visible": true,
+    "workbench.statusBar.visible": false,
     "terminal.integrated.fontFamily": "monospace",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.cursorBlinking": true,
